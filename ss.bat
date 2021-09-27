@@ -1,0 +1,1 @@
+tool1 <data.txt >new.txt
